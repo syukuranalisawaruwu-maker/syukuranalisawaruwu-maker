@@ -84,7 +84,7 @@
 
 <div align="center">
 
-### 🎯 Goals 2025
+### 🎯 Goals 2026
 ```
 ✅ Kuasai JavaScript & Node.js
 🔄 Build Full-Stack Web App dengan Laravel
